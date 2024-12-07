@@ -14,6 +14,9 @@ This project leverages LLaMA3 (via Groq API) to analyze code snippets, identify 
 ### Prerequisites
 1. Install Python 3.8 or higher.
 2. Get a Groq API key from [Groq](https://groq.com).
+3. I have given the apikey for easier access below
+4. GROQ_API_KEY = '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'
+5. enter the apikey in .env file.
 
 ### Installation
 1. Clone the repository:
