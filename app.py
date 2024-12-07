@@ -31,4 +31,4 @@ if st.button("Analyze Code"):
 
         # Provide Download Link
         st.markdown(download_link(suggestions, "optimization_suggestions.txt"), unsafe_allow_html=True)
-print("done")
+#print("done")
