@@ -1,6 +1,6 @@
 import streamlit as st
 from optimizer import optimize_code
-from utils import detect_language, download_link
+from utils import  download_link
 
 # Title and Description
 st.title("AI-Powered Code Optimization Tool")
@@ -21,8 +21,8 @@ if st.button("Analyze Code"):
         st.warning("Please provide code to analyze.")
     else:
         # Detect Language
-        language = detect_language(code_snippet)
-        st.write(f"Detected Language: {language}")
+        #language = detect_language(code_snippet)
+        #st.write(f"Detected Language: {language}")
 
         # Optimize Code
         st.subheader("Optimization Suggestions")
