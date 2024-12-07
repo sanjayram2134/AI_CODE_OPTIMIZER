@@ -32,3 +32,5 @@ This project leverages LLaMA3 (via Groq API) to analyze code snippets, identify 
    ```
    streamlit run app.py
 These commands will allow to run the project successfully
+
+![alt text]
