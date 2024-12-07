@@ -18,7 +18,7 @@ This project leverages LLaMA3 (via Groq API) to analyze code snippets, identify 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/sanjayram2134/AI_CODE_OPTIMIZER.git
+   git clone https://github.com/sanjayram2134/AI_CODE_OPTIMIZER.git
 2. navigate to repository
    ```
    cd code_optimizer
