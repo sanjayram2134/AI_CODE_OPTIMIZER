@@ -19,7 +19,13 @@ This project leverages LLaMA3 (via Groq API) to analyze code snippets, identify 
 1. Clone the repository:
    ```bash
    git clone (https://github.com/sanjayram2134/AI_CODE_OPTIMIZER.git
+2. navigate to repository
+   ```
    cd code_optimizer
+3. Install the necessary libaries
+   ```
    pip install -r requirements.txt
+4. Run the streamlit application
+   ```
    streamlit run app.py
 These commands will allow to run the project successfully
